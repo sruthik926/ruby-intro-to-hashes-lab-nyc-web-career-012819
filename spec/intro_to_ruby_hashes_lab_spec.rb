@@ -18,8 +18,8 @@ describe "working with hashes" do
         expect(actor[:name]).to eq("Dwayne The Rock Johnson")
       end
     end
-  end
 
+  end
 end
 
 describe "building a multidimensional monopoly hash" do
